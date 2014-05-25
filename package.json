@@ -1,0 +1,25 @@
+{
+  "name": "rest-store",
+  "version": "0.1.0",
+  "description": "flux store for REST APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahdinosaur/rest-store.git"
+  },
+  "keywords": [
+    "flux",
+    "fluxxor",
+    "rest",
+    "store"
+  ],
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/rest-store/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/rest-store"
+}
